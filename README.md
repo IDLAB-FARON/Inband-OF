@@ -1,2 +1,2 @@
 # Inband-OF
-In-band Openflow inmplementation
+In-band Openflow implementation
